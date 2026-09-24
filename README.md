@@ -3,8 +3,8 @@ A 3-page Power BI report analyzing retail transactions across region, city, prod
 ![Power BI](https://github.com/LikithReddy128/Retail-Sales-Dashboard/blob/main/Retails%20Store%20Dashboard.pbix)
 ![Excel](https://github.com/LikithReddy128/Retail-Sales-Dashboard/blob/main/zepto_sales_raw.xlsx)
 
-
-
+---
+![Power BI](https://github.com/LikithReddy128/Retail-Sales-Dashboard/blob/main/Retails%20Store%20Dashboard.png)
 
 ---
 
