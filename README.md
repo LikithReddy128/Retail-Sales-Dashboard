@@ -1,6 +1,6 @@
 # Retail-Sales-Dashboard
 A 3-page Power BI report analyzing retail transactions across region, city, product category, brand, and sales channel — built on a star-schema data model (`Fact Sales` + 4 dimension tables) with time-intelligence measures (YTD, MTD, current vs. previous period) and five synced slicers.
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://github.com/LikithReddy128/Retail-Sales-Dashboard/blob/main/Retails%20Store%20Dashboard.pbix)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue?style=for-the-badge)
 
