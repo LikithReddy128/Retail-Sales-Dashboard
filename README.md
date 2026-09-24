@@ -6,6 +6,7 @@ A 3-page Power BI report analyzing retail transactions across region, city, prod
 ---
 ![Power BI](https://github.com/LikithReddy128/Retail-Sales-Dashboard/blob/main/Retails%20Store%20Dashboard.png)
 ![Power BI](https://github.com/LikithReddy128/Retail-Sales-Dashboard/blob/main/Reatils%20dashboard.png)
+![Power BI](https://github.com/LikithReddy128/Retail-Sales-Dashboard/blob/main/Retails%20dashboard.png)
 ---
 
 https://(github.com/LikithReddy128/Retail-Sales-Dashboard/blob/main/Reatils%20dashboard.png)
