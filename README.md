@@ -2,23 +2,11 @@
 A 3-page Power BI report analyzing retail transactions across region, city, product category, brand, and sales channel — built on a star-schema data model (`Fact Sales` + 4 dimension tables) with time-intelligence measures (YTD, MTD, current vs. previous period) and five synced slicers.
 ![Power BI](https://github.com/LikithReddy128/Retail-Sales-Dashboard/blob/main/Retails%20Store%20Dashboard.pbix)
 ![Excel](https://github.com/LikithReddy128/Retail-Sales-Dashboard/blob/main/zepto_sales_raw.xlsx)
-![DAX](https://img.shields.io/badge/DAX-Measures-blue?style=for-the-badge)
+
 
 ---
 
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Repository Structure](#repository-structure)
-3. [Dataset](#dataset)
-4. [Data Model](#data-model)
-5. [KPIs & DAX Measures](#kpis--dax-measures)
-6. [Dashboard Pages](#dashboard-pages)
-7. [Slicers Used & How to Add Them](#slicers-used--how-to-add-them)
-8. [How to Open / Use This Project](#how-to-open--use-this-project)
-9. [How This Repository Was Created (Git & GitHub Steps)](#how-this-repository-was-created-git--github-steps)
-10. [Insights & Outcomes](#insights--outcomes)
-11. [Tech Stack](#tech-stack)
-12. [Author](#author)
+
 
 ---
 
